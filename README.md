@@ -19,13 +19,6 @@ This project presents a comprehensive Power BI dashboard designed to deliver val
 - **Segment Analysis**: Detailed breakdowns of sales by product categories, regions, and customer demographics.
 - **Interactive Filters**: Allowing users to drill down into specific data segments, time periods, and other dimensions for in-depth analysis.
 
-## Repository Structure
-
-- `data/`: Contains any raw or processed data files used in the dashboard.
-- `dashboard/`: Power BI dashboard file (.pbix) and related resources.
-- `docs/`: PDF file of the dashboard, providing a static representation of the interactive visualizations.
-- `README.md`: Project overview and instructions.
-
 ## How to Use
 
 1. Clone the repository:
